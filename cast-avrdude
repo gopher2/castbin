@@ -1,4 +1,4 @@
 #!/bin/sh
 
-sudo myreset
+sudo cast-reset
 /usr/bin/avrdude-original $@
