@@ -1,2 +1,2 @@
-chmod +x cast-reset
-chmod +x cast-avrdude
+sudo chmod +x cast-reset
+sudo chmod +x cast-avrdude
